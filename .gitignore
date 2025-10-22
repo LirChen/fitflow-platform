@@ -1,0 +1,29 @@
+@"
+# Pulumi
+**/.pulumi/
+**/venv/
+**/__pycache__/
+*.pyc
+
+# Node modules
+**/node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials & Environment files
+*.env
+.env*
+*.pem
+*.key
+aws-credentials.json
+
+# Build artifacts
+**/build/
+**/dist/
+"@ | Out-File -FilePath .gitignore -Encoding utf8 -Force

@@ -1,0 +1,4 @@
+encryptionsalt: v1:9/yJGffkcQQ=:v1:E+ScYef01D0ouMsY:f+J+EOSyU2Ios4hz/cjVAqG4s5T3Jw==
+config:
+  aws:region: us-east-1
+  aws:profile: default
