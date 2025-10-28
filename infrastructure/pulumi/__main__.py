@@ -7,6 +7,9 @@ import pulumi
 # Import all infrastructure modules
 import config
 import vpc
+import iam_roles
+import security_groups
+import eks
 import outputs
 
 # Print info
