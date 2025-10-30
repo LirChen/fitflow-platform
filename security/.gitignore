@@ -1,0 +1,5 @@
+﻿# Ignore scan outputs (too large)
+reports/*.json
+
+# Keep structure
+!reports/.gitkeep
