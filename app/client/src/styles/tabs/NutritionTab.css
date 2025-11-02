@@ -6,13 +6,6 @@
   max-width: 100%;
 }
 
-.gradient-green-emerald {
-  background: linear-gradient(135deg, #4ade80, #34d399);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
 .nutrition-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
