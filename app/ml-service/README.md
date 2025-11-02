@@ -113,7 +113,7 @@ Output    Output   Output
 
 ### Technology Stack
 
-- **Framework**: Flask 3.1.0
+- **Framework**: Flask 3.1.1
 - **ML/DL**: TensorFlow 2.18.0
 - **Image Processing**: 
   - Pillow 10.3.0
